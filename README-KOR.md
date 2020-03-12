@@ -1,30 +1,30 @@
 # BoostCourse-web
 
-## 1. Web Programming Basics
+## 1. 웹 프로그래밍 기초
 ![progress][progress-complete]
-> **Project A.** Homepage (./homepage)
+> **프로젝트 A.** 홈페이지 (./homepage)
 
 ![home](https://user-images.githubusercontent.com/25261274/76523340-9af2a580-64ab-11ea-9116-923a0f8bea28.PNG)
 
-## 2. DB-connected Web App
+## 2. DB 연결 웹 앱
 ![progress][progress-begin]
-> **Project B.** TO-DO
+> **프로젝트 B.** TO-DO
 
-## 3. Web App Development: Reservation service 1/4
+## 3. 웹 앱 개발: 예약서비스 1/4
 ![progress][progress-zero]
-> **Project C.** Reservation: Main
+> **프로젝트 C.** 예약: 메인
 
-## 4. Web App Development: Reservation service 2/4
+## 4. 웹 앱 개발: 예약서비스 2/4
 ![progress][progress-zero]
-> **Project D.** Reservation: Details
+> **프로젝트 D.** 예약: 상세
 
-## 5. Web App Development: Reservation service 3/4
+## 5. 웹 앱 개발: 예약서비스 3/4
 ![progress][progress-zero]
-> **Project E.** Reservation: Function
+> **프로젝트 E.** 예약: 기능
 
-## 6. Web App Development: Reservation service 4/4
+## 6. 웹 앱 개발: 예약서비스 4/4
 ![progress][progress-zero]
-> **Project F.** Reservation: One line review
+> **프로젝트 F.** 예약: 한줄평
 
 
 <!-- Markdown link & img dfn's -->
